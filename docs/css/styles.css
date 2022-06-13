@@ -2,6 +2,14 @@
     background-color: cyan;
 }
 
+h1{
+    color: #66BFBB;
+}
+
+h3{
+    color: #66BFBF;
+}
+
 hr {
     border-style: none;
     border-top-style: dotted;
